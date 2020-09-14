@@ -72,7 +72,7 @@ $(function () {
 
         if (search.test(input)) {
             // link = conf.search_engine + encodeURIComponent(input.replace(/^:s /g, ""));
-            link = search_engine.replace("search", encodeURIComponent(input.slice(3)));
+            link = conf.search_engine.replace("search", encodeURIComponent(input.slice(3)));
         } else if (site.test(input)) {
             link = input.replace(/^:u /g, "");
         } else {
