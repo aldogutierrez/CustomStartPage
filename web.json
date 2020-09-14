@@ -53,8 +53,12 @@
       "url": "https://www.oreilly.com/member/login/?next=%2Fapi%2Fv1%2Fauth%2Fopenid%2Fauthorize%2F%3Fclient_id%3D235442%26redirect_uri%3Dhttps%3A%2F%2Flearning.oreilly.com%2Fcomplete%2Funified%2F%26state%3DTz9yTUnXKGXZmErnjbtxOxodu59k4QNP%26response_type%3Dcode%26scope%3Dopenid%2Bprofile%2Bemail&locale=en:w"
     },
     {
-      "key": "",
-      "url": ""
+      "key": ":vimcheat",
+      "url": "https://vim.rtorr.com/"
+    },
+    {
+      "key": ":planner",
+      "url": "https://tasks.office.com/"
     }
   ]
 }
