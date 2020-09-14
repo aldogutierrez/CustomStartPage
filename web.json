@@ -2,7 +2,7 @@
   "greeting_text": "おかえり！",
   "background": "#171928",
   "foreground": "#c7b7c7",
-  "search_engine": "https://duckduckgo.com/?q=",
+  "search_engine": "https://duckduckgo.com/?q=search&kp=-1&kl=us-en",
   "favourites": [
     {
       "key": ":fb",
@@ -10,7 +10,7 @@
     },
     {
       "key": ":drive",
-      "url": "https://accounts.google.com/signin/v2/sl/pwd?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Des%26utm_medium%3Dbutton%26utm_campaign%3Dweb%26utm_content%3Dgotodrive%26usp%3Dgtd%26ltmpl%3Ddrive&flowName=GlifWebSignIn&flowEntry=ServiceLogin#identifier"
+      "url": "https://drive.google.com/?tab=ko&authuser=0"
     },
     {
       "key": ":cv",
@@ -25,8 +25,8 @@
       "url": "https://github.com/login"
     },
     {
-			"key": ":otlk",
-      "url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1497147744&rver=6.7.6640.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fauthRedirect%3dtrue%26realm%3dhotmail.es%26RpsCsrfState%3db5fe9f04-de71-47dc-a810-605886a97926&id=292841&whr=hotmail.es&CBCXT=out&fl=wld&cobrandid=90015"
+      "key": ":otlk",
+      "url": "https://outlook.live.com/owa/?nlp=1"
     },
     {
       "key": ":what",
@@ -38,7 +38,7 @@
     },
     {
       "key": ":sjsu",
-      "url": "https://sjsu.okta.com/login/login.htm?fromURI=%2Fhome%2Ftemplate_sps%2F0oahgyh1ariizQmpZ0x7%2F2355"
+      "url": "https://one.sjsu.edu/launch-task/all/mysjsu"
     },
     {
       "key": ":cw",
@@ -50,7 +50,7 @@
     },
     {
       "key": ":orly",
-      "url": "https://www.oreilly.com/member/login/?next=%2Fapi%2Fv1%2Fauth%2Fopenid%2Fauthorize%2F%3Fclient_id%3D235442%26redirect_uri%3Dhttps%3A%2F%2Flearning.oreilly.com%2Fcomplete%2Funified%2F%26state%3DTz9yTUnXKGXZmErnjbtxOxodu59k4QNP%26response_type%3Dcode%26scope%3Dopenid%2Bprofile%2Bemail&locale=en:w"
+      "url": "https://learning.oreilly.com/accounts/login-check/"
     },
     {
       "key": ":vimcheat",
