@@ -14,7 +14,7 @@ And set the index.html as homepages or new tabs in your browser.
 
 ## Usage
 
-There is a few command that can be used :
+There is a few command that can be used:
 
 ###### Open favourites website listed in web.json, example (open gmail):
 
@@ -26,14 +26,14 @@ There is a few command that can be used :
 
 ###### Search (s), example :
 
-     :s How to make a delicious pancakes at home
+     :s Best coffeeshops near me
 
 
 ## Editing
 
 SEE [`web.json`](web.json).
-
-You can totally clone the repository and make your changes
+- You can set your search engine in `web.json` too
+- You can totally clone the repository and make your changes (add a custom message, add/remove URLs)
 
 ## License
 
